@@ -1,0 +1,7 @@
+/* import tailwind */
+@import "tailwindcss";
+
+
+* {
+  font-family: "Michroma", sans-serif;
+}
